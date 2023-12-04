@@ -544,18 +544,8 @@ related to social and/or cultural context.
 referring to the patient in speech, in clinical notes, and in written
 instructions to caregivers.
 
-**Usage Note:** Personal pronouns are words used instead of a noun or a
-noun phrase used to refer to people. Understanding which pronoun(s) to
-use when referring to someone is important for providing affirming
-health care. Avoiding incorrect pronoun use and patient misgendering is
-crucial in transgender and gender-diverse care. It is important to
-reliably exchange personal pronouns that the individual has specifically
-reported they want used. The information could be considered a primary
-(first class) element associated with the demographic information for
-the patient. However, it may require representation as an observation
-about the patient. Local policy will determine how pronouns are chosen
-for infants and other similar situations. Policy and local custom will
-determine what to use when this attribute is not present, or when
+**Usage Note:** Personal pronouns are words used instead of a noun or a noun phrase used to refer to people. Avoiding incorrect pronoun use and patient misgendering is crucial in providing care to gender-diverse populations. It is important to reliably exchange personal pronouns that the individual has specifically reported they want used. The information could be considered a primary (first class) element associated with the demographic information for
+the patient. However, it may require representation as an observation about the patient. Local policy will determine how pronouns are chosen for infants and other similar situations. Policy and local custom will determine what to use when this attribute is not present, or when
 multiple are present.
 
 Different pronouns may be used in one care setting than another care
