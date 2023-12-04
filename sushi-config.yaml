@@ -61,8 +61,6 @@ pages:
     title: Terminology        
   externalstandards.md:
     title: External Standards  
-  bibliography.md:
-    title: Bibliography
   changelog.md:
     title: Change Log  
   artifacts2.md:
@@ -101,7 +99,6 @@ menu:
 #    FHIR Examples: fhirexamples.html
   Terminology: terminology.html 
   External Standards: externalstandards.html
-  Bibliography: bibliography.html
   Change Log: changelog.html
   All Artifacts: artifacts2.html
   
