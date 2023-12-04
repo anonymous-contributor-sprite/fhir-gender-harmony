@@ -315,7 +315,7 @@ Examples of the use of the Sex Parameter for Clinical Use template can be found 
                     <code code="29762-2" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" />
                     <title>Social History</title>
                     <text>
-                        The patient was born female, identifies as male and is currently undergoing gender affirming hormone therapy.
+                        The patient was born female, identifies as male and is currently undergoing hormone therapy.
                         <table border="1" width="100%" cellpadding="0" cellspacing="0">
                             <thead>
                                 <tr>
